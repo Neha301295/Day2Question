@@ -1,0 +1,7 @@
+D:\C#\Spl\Day2\Day2 Question\Primeminmax\Primeminmax\bin\Debug\Primeminmax.exe.config
+D:\C#\Spl\Day2\Day2 Question\Primeminmax\Primeminmax\bin\Debug\Primeminmax.exe
+D:\C#\Spl\Day2\Day2 Question\Primeminmax\Primeminmax\bin\Debug\Primeminmax.pdb
+D:\C#\Spl\Day2\Day2 Question\Primeminmax\Primeminmax\obj\Debug\Primeminmax.csprojAssemblyReference.cache
+D:\C#\Spl\Day2\Day2 Question\Primeminmax\Primeminmax\obj\Debug\Primeminmax.csproj.CoreCompileInputs.cache
+D:\C#\Spl\Day2\Day2 Question\Primeminmax\Primeminmax\obj\Debug\Primeminmax.exe
+D:\C#\Spl\Day2\Day2 Question\Primeminmax\Primeminmax\obj\Debug\Primeminmax.pdb
